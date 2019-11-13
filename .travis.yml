@@ -4,4 +4,4 @@ python:
     - "3.7"
 
 install:
-    - python src/app.py
+    - python app.py
