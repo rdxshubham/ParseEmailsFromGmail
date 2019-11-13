@@ -45,6 +45,3 @@ class Gmail:
         except Exception as e:
             print(str(e))
 
-
-obj = Gmail('iamrahulandilovetobecooland', 'shubhamrdx')
-obj.read_mails()
