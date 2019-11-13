@@ -1,6 +1,6 @@
 import itertools
 
-from src.Gmail import Gmail
+from Gmail import Gmail
 
 # enter email id
 email = 'EMAIL'
