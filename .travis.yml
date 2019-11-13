@@ -5,3 +5,5 @@ python:
 
 install:
     - python app.py
+
+script:
